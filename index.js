@@ -1,9 +1,9 @@
 // write your code below!
 function happyHolidays()
 {
-  var greeting = "Happy holidays!"
+  var holidaysGreeting = "Happy holidays!"
   
-  return greeting
+  return holidaysGreeting
 }
 
 function happyHolidaysTo(name)
