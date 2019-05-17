@@ -1,1 +1,25 @@
 // write your code below!
+function happyHolidays()
+{
+  var greeting = "Happy holidays!"
+  
+  return greeting
+}
+
+function happyHolidaysTo(name)
+{
+  var greeting = `Happy holdiays, ${name}!`
+  return greeting
+}
+
+function happyHolidayTo(name, holiday)
+{
+  var greeting = `Happy ${holiday}, ${name}!`
+  return greeting
+}
+
+function holidayCountdown(holiday, days)
+{
+  var countDown = `It's ${days} days until ${holiday}!`
+  return countDown
+}
